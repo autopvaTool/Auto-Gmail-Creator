@@ -1,4 +1,5 @@
-**Summary**
+**Summary**:
+
 This **AI** software script can create 1000s of Gmail accounts fully automatically in just a few minutes. It can also bypass phone SMS verification steps automatically using a virtual phone/SMS API system. 
 It is very easy to use and completely undetectable.
 
@@ -11,10 +12,17 @@ You can fully customize this script as per you needs. I am also developing many 
 Also, Feel free to contact me if you have any project regarding AI Automation, Scraping, Machine Learning.
 
 
-**Proxy**
+**Proxy**:
+
 If you want to use socks proxy, please remove comment theses lines. Free Proxy list is here
 
     SOCKS_PROXY = "socks5://user:pass@ip:port"
 
-**Customize**
+**Customize**:
+
 Script will automatically make browser info and everything undetectable using latest AI and anti-fingerprint technology. Also you can customize everything as per you needs.
+
+
+**Telegram**:
+
+https://t.me/iautopva
